@@ -9,3 +9,4 @@ Subscription system for following favorite channels.
 This project serves as a foundational backend for developers aiming to build or extend video-sharing platforms with modern API standards.
 
 Link for the Postman :- https://documenter.getpostman.com/view/39216566/2sAYQUpZgu
+Link for the Google Drive :- https://drive.google.com/file/d/1iXKvdsqaQeka9PsiX0EIhKBpDAhbZiQN/view?usp=drivesdk
